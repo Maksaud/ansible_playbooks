@@ -1,0 +1,6 @@
+# variables
+
+  username:
+    test:
+      uname: test
+      description: Test User Account
